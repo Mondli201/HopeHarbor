@@ -1,4 +1,4 @@
-<img width="567" height="2268" alt="image" src="https://github.com/user-attachments/assets/388f8a35-356b-4942-8c84-8ce12aacdf04" /># HopeHarbor
+# HopeHarbor
 A full-stack web application designed to improve resource allocation and information management. Built using ASP.NET Core, C#, SQL Server, and Azure-based development practices.
 
 ## Demo Video
